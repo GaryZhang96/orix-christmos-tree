@@ -1,7 +1,7 @@
 {
   "name": "arix-tree",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,7 +14,8 @@
     "three": "^0.160.0",
     "@react-three/fiber": "^8.15.14",
     "@react-three/drei": "^9.99.0",
-    "@react-three/postprocessing": "^2.16.0"
+    "@react-three/postprocessing": "^2.16.0",
+    "leva": "^0.9.35"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
