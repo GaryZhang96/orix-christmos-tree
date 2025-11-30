@@ -14,8 +14,7 @@
     "three": "^0.160.0",
     "@react-three/fiber": "^8.15.14",
     "@react-three/drei": "^9.99.0",
-    "@react-three/postprocessing": "^2.16.0",
-    "lamipop": "^1.0.3"
+    "@react-three/postprocessing": "^2.16.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
